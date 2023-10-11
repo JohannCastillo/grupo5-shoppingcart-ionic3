@@ -13,3 +13,12 @@ More detail: https://www.npmjs.com/package/ionic/v/3.20.1
 ## App Preview
 
 Soon. 
+
+## Versiones usadas para el despliege
+* Node/npm v10.24.1 / 6.14.12
+* Cordova v10.0.0
+* Python v2.7
+* Ionic v3.20.1
+* Gradle v7.1.1
+* Android SDK Build-Tools v30.0.3
+* Android Command-line Tools v11 
