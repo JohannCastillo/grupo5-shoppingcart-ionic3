@@ -26,7 +26,7 @@ export const PRODUCTS: Product[] = [
 export const PRODUCTS_IN_PROMOTION: Product[] = [
   {
     id: 4, name: 'Banana', price: 10.00,
-    image: 'https://via.placeholder.com/300x300',
+    image: 'https://i.pinimg.com/originals/ae/98/5c/ae985c02e7435715b191d3ce5973bbac.jpg',
     description: 'is blue'
   },
   {
